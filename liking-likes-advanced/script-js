@@ -1,0 +1,16 @@
+ 
+function add1() {
+num1.innerText++
+}
+
+
+
+function add2() {
+num2.innerText++
+}
+    
+
+function add3() {
+    num3.innerText++
+    }
+       
