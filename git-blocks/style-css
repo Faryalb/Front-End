@@ -1,0 +1,46 @@
+
+.container{
+    width: 900px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+    margin: 0 auto;
+    background-color: blanchedalmond;
+    padding: 20px;
+
+   
+}
+
+.row-1{
+    background-color: steelblue;
+    margin: 20px;
+}
+
+.cloud{
+    width: 200px;
+    height: 200px; 
+    padding: 20px;
+}
+
+.row-2{
+    background-color: palevioletred;
+    margin: 20px;
+}
+
+.female{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.row-3{
+    background-color: slategray;
+    margin: 20px;
+}
+
+.sari{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+
+   
+}
