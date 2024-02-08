@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Hub Blockst</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+
+    <div class="container">
+        <h1>GitHub Blocks</h1>
+        <div class="row-1">
+        <img src="./Octodex.img/cloud.jpeg" class="cloud" alt="cloud">
+        <img src="./Octodex.img/hipster-partycat.jpeg" class="cloud" alt="hipster">
+        <img src="./Octodex.img/dinotocat.png" class="cloud" alt="dinocat">
+    </div>
+
+
+    <div class="row-2">
+        <img src="./Octodex.img/femalecodertocat.png" class="female" alt="femalecoder">
+        <img src="./Octodex.img/momtocat.png" class="female" alt="mom">
+    </div>
+         
+    <div class="row-3">
+        <img src="./Octodex.img/saritocat.png" class="sari" alt="sari">
+        <img src="./Octodex.img/shoptocat.png" class="sari" alt="shopcat">
+        <img src="./Octodex.img/mona-the-rivetertocat.png" class="sari" alt="rivet">
+        
+    </div>
+        
+</div>
+    
+</body>
+</html>
