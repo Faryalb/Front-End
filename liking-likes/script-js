@@ -1,0 +1,5 @@
+ function add() {
+    count ++;
+    console.log(count);
+}
+    
