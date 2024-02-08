@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    width: 1000px;
+    justify-content: space-evenly;
+}
+
+.left-side{
+   width: 450px;
+   padding: 30px;
+   margin-left: 150px;
+
+}
+
+.right-side{
+    width: 200px;
+    padding: 30px;
+    margin-right: 70px;
+}
+
+.nav-bar{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    display:flex;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    padding: 10px;
+    margin-left: 200px;
+}
+
+a{
+    padding-left: 20px;
+    color: white;
+}
+.profile{
+    color: white;
+    text-align: left;    
+}
+.btn{
+    background-color: cadetblue;
+    margin-right: 100px;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+}
+.user-card{
+    width: 100%;
+    border: 10px;
+    border-radius: 5px;
+    border: solid gray;
+    margin-bottom: 30px;
+}
+
+.card-image{
+    height: 110px;
+    background-color: cadetblue;
+    border: 2px solid gray;
+    border-radius: 5px;
+   
+}
+    
+.circle{
+    height: 100px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: grey;
+}
+
+.map-mark, .gear{
+    height: 15px;
+}
+
+.card-body{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.education{
+   border: solid gray;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+} 
+.edu-body{
+    padding-left: 20px;
+}
+.connection{
+    border: solid gray;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+    
+}
+
+.rightcolumn{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+.user-1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.check{
+    width: 30px;
+}
+
+.user-2{
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;   
+
+}
+
+.bottom-column{
+    border: solid gray;
+}
+
+.your-connections{
+    background-color: black;
+    color:white;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    text-align: center;
+    /* margin-top: 20px; */
+}
+   
+.names{
+    text-align: left;
+    
+}
+.names-2{
+    display: flex;
+    align-items: center;
+}
+
+.user-3{
+    margin: 20px;
+    height: 25px; 
+    background-color: beige;
+}
+
+
+.footer{
+    border: solid black;
+  
+}
